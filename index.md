@@ -1,24 +1,26 @@
-## Welcome to GitHub Pages
+# Saanvi Dey's First CS 193 Homework!
+## My favorite things about CS 193 so far...
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Teaches me **a lot** of things a standard CS class won't teach (like how to use GitHub)
+- Can make my CS 180 (and future classes) easier because I'm learning how to use some of the software
+- Gives me an opportunity to meet new people from the _Department of Computer Science_
 
 ```markdown
 Syntax highlighted code block
 
-# Saanvi Dey's first CS 193 Homework!
-## Favorite things about this course so far:
+# Header 1
+## Header 2
+### Header 3
 
-- Teaches me **a lot** of things that my standard CS courses won't teach (like how to use GitHub)
-- The course pairs nicely with my computer science courses and will help me so much there
-- Gives me an opportunity to connect with other students from the _Department of Computer Science_
+- Bulleted
+- List
 
+1. Numbered
+2. List
 
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
